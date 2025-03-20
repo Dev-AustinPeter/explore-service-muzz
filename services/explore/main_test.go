@@ -2,6 +2,11 @@
 
 package main
 
+/*
+ * @author Austin Rodrigues
+ * @FilePath: /explore-service-muzz/services/explore/main_test.go
+ * @Description: gRPC server for Muzz's Explore Service
+ */
 import (
 	"context"
 	"regexp"

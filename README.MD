@@ -1,4 +1,4 @@
-# Muzz gRPC Service
+# Muzz gRPC Explore Service
 
 ## Overview
 This gRPC service implements the core functionality of Muzz's Explore Service, allowing users to interact by liking or passing on other profiles. The service is built using **Go**, **gRPC**, and **MySQL**.

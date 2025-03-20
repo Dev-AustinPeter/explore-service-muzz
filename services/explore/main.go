@@ -1,5 +1,11 @@
 package main
 
+/*
+ * @author Austin Rodrigues
+ * @FilePath: /explore-service-muzz/services/explore/main.go
+ * @Description: gRPC server for Muzz's Explore Service
+ */
+
 import (
 	"context"
 	"database/sql"
